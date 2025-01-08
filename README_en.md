@@ -205,3 +205,14 @@ The script is located at: `scripts/clash_proxy-selector.sh`
 
 3. **Error `unsupported rule type RULE-SET` in logs:**  
    Refer to the official [Clash FAQ](https://github.com/Dreamacro/clash/wiki/FAQ#error-unsupported-rule-type-rule-set) for resolution.
+
+## Available Commands
+
+After loading the environment variables (`source /etc/profile.d/clash.sh`), the following commands are available:
+
+- `clash_on` - Enable system proxy
+- `clash_off` - Disable system proxy
+- `clash_test` - Test latency for all proxy nodes (requires jq)
+- `clash_help` - Display help information for all available commands
+
+> **Note:** The `clash_test` command requires the `jq` tool. On Ubuntu/Debian systems, you can install it with `sudo apt-get install jq`; on CentOS/RHEL systems, use `sudo yum install jq`.
