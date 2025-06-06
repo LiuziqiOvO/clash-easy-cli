@@ -1,0 +1,650 @@
+2025/06/06 Fri 09:39:42.611244 [39361 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 09:39:42.611827 [39361 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 09:39:42.629087 [39361 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:39:42.629219 [39361 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 09:39:42.629336 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:39:42.629444 [39361 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:39:42.629692 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:39:42.629765 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 09:39:42.629858 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 09:39:42.630003 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630106 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630219 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630304 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630411 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630514 [39361 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:39:42.630608 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 09:39:42.630673 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 09:39:42.630773 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 09:39:42.630868 [39361 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:39:42.630985 [39361 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:39:42.631069 [39361 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 09:39:42.631127 [39361 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 09:39:42.631192 [39361 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 09:39:42.631255 [39361 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 09:39:42.631288 [39361 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 09:39:42.631316 [39361 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 09:39:42.631388 [39361 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:39:42.631458 [39361 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 09:39:42.632660 [39361 10739128][VERB] Received Link.
+2025/06/06 Fri 09:39:42.632702 [39361 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 09:39:42.633433 [39361 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 09:39:42.633475 [39361 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 09:39:42.633517 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633550 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633581 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633613 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633644 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633676 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633708 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633739 [39361 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633771 [39361 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633802 [39361 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633834 [39361 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633865 [39361 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 09:39:42.633893 [39361 10739128][VERB] Filter done.
+2025/06/06 Fri 09:39:42.634119 [39361 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:39:42.648748 [39361 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:39:42.649813 [39361 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:39:42.653507 [39361 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:39:42.654169 [39361 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 09:39:42.654208 [39361 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 09:39:42.654262 [39361 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:39:42.654307 [39361 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:39:42.654418 [39361 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:39:42.654469 [39361 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 09:39:42.655583 [39361 10739128][VERB] Received Link.
+2025/06/06 Fri 09:39:42.655679 [39361 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:39:42.669028 [39361 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:39:42.670082 [39361 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:39:42.672257 [39361 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:39:42.672911 [39361 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 09:39:42.672948 [39361 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 09:44:08.205418 [41017 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 09:44:08.205978 [41017 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 09:44:08.223078 [41017 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:44:08.223206 [41017 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 09:44:08.223323 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:44:08.223425 [41017 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:44:08.223668 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:44:08.223728 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 09:44:08.223845 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 09:44:08.223948 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224039 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224130 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224221 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224311 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224400 [41017 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:44:08.224504 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 09:44:08.224562 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 09:44:08.224675 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 09:44:08.224767 [41017 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:44:08.224890 [41017 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:44:08.224976 [41017 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 09:44:08.225030 [41017 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 09:44:08.225096 [41017 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 09:44:08.225158 [41017 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 09:44:08.225188 [41017 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 09:44:08.225217 [41017 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 09:44:08.225289 [41017 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:44:08.225359 [41017 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 09:44:08.226567 [41017 10739128][VERB] Received Link.
+2025/06/06 Fri 09:44:08.226610 [41017 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 09:44:08.227375 [41017 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 09:44:08.227418 [41017 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 09:44:08.227451 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227483 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227515 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227546 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227578 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227609 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227649 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227681 [41017 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227713 [41017 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227744 [41017 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227776 [41017 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227807 [41017 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 09:44:08.227835 [41017 10739128][VERB] Filter done.
+2025/06/06 Fri 09:44:08.228063 [41017 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:44:08.242802 [41017 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:44:08.243876 [41017 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:44:08.247563 [41017 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:44:08.248207 [41017 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 09:44:08.248245 [41017 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 09:44:08.248297 [41017 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:44:08.248341 [41017 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:44:08.248454 [41017 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:44:08.248506 [41017 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 09:44:08.249602 [41017 10739128][VERB] Received Link.
+2025/06/06 Fri 09:44:08.249691 [41017 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:44:08.263098 [41017 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:44:08.264150 [41017 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:44:08.266223 [41017 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:44:08.266899 [41017 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 09:44:08.266939 [41017 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 09:47:15.896002 [42309 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 09:47:15.896588 [42309 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 09:47:15.913807 [42309 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:47:15.913947 [42309 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 09:47:15.914063 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:47:15.914194 [42309 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:47:15.914437 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:47:15.914502 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 09:47:15.914614 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 09:47:15.914719 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.914826 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.914933 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.915051 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.915149 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.915238 [42309 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:47:15.915329 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 09:47:15.915390 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 09:47:15.915494 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 09:47:15.915586 [42309 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:47:15.915687 [42309 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:47:15.915774 [42309 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 09:47:15.915829 [42309 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 09:47:15.915893 [42309 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 09:47:15.915955 [42309 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 09:47:15.915989 [42309 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 09:47:15.916017 [42309 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 09:47:15.916089 [42309 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:47:15.916160 [42309 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 09:47:15.917364 [42309 10739128][VERB] Received Link.
+2025/06/06 Fri 09:47:15.917408 [42309 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 09:47:15.918146 [42309 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 09:47:15.918188 [42309 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 09:47:15.918221 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918253 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918284 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918316 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918347 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918379 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918410 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918441 [42309 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918473 [42309 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918504 [42309 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918536 [42309 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918575 [42309 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 09:47:15.918602 [42309 10739128][VERB] Filter done.
+2025/06/06 Fri 09:47:15.918829 [42309 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:47:15.933531 [42309 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:47:15.934595 [42309 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:47:15.938286 [42309 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:47:15.938906 [42309 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 09:47:15.938944 [42309 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 09:47:15.938997 [42309 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:47:15.939040 [42309 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:47:15.939151 [42309 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:47:15.939201 [42309 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 09:47:15.940332 [42309 10739128][VERB] Received Link.
+2025/06/06 Fri 09:47:15.940420 [42309 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:47:15.954151 [42309 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:47:15.955244 [42309 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:47:15.957350 [42309 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:47:15.958022 [42309 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 09:47:15.958060 [42309 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 09:59:43.534705 [43129 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 09:59:43.535296 [43129 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 09:59:43.552415 [43129 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:59:43.552547 [43129 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 09:59:43.552665 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:59:43.552794 [43129 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:59:43.553039 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 09:59:43.553126 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 09:59:43.553220 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 09:59:43.553323 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553417 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553504 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553590 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553674 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553780 [43129 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 09:59:43.553876 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 09:59:43.553934 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 09:59:43.554035 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 09:59:43.554144 [43129 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:59:43.554250 [43129 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 09:59:43.554335 [43129 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 09:59:43.554386 [43129 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 09:59:43.554449 [43129 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 09:59:43.554509 [43129 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 09:59:43.554542 [43129 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 09:59:43.554571 [43129 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 09:59:43.554646 [43129 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:59:43.554716 [43129 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 09:59:43.555937 [43129 10739128][VERB] Received Link.
+2025/06/06 Fri 09:59:43.555981 [43129 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 09:59:43.556714 [43129 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 09:59:43.556755 [43129 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 09:59:43.556788 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556820 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556851 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556883 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556914 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556946 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 09:59:43.556977 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557008 [43129 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557040 [43129 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557071 [43129 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557103 [43129 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557134 [43129 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 09:59:43.557162 [43129 10739128][VERB] Filter done.
+2025/06/06 Fri 09:59:43.557389 [43129 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:59:43.572005 [43129 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:59:43.573075 [43129 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:59:43.576790 [43129 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:59:43.577467 [43129 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 09:59:43.577505 [43129 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 09:59:43.577558 [43129 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:59:43.577602 [43129 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 09:59:43.577713 [43129 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 09:59:43.577763 [43129 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 09:59:43.578914 [43129 10739128][VERB] Received Link.
+2025/06/06 Fri 09:59:43.579004 [43129 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 09:59:43.592330 [43129 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 09:59:43.593376 [43129 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 09:59:43.595449 [43129 10739128][INFO] Generate completed.
+2025/06/06 Fri 09:59:43.596121 [43129 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 09:59:43.596158 [43129 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:00:47.793838 [43641 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:00:47.794859 [43641 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:00:47.812777 [43641 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:00:47.812913 [43641 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:00:47.813033 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:00:47.813164 [43641 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:00:47.813421 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:00:47.813493 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:00:47.813619 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:00:47.813743 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.813843 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.813939 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.814030 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.814117 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.814223 [43641 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:00:47.814312 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:00:47.814374 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:00:47.814487 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:00:47.814598 [43641 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:00:47.814700 [43641 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:00:47.814795 [43641 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:00:47.814851 [43641 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:00:47.814923 [43641 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:00:47.814988 [43641 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:00:47.815020 [43641 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:00:47.815047 [43641 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:00:47.815119 [43641 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:00:47.815188 [43641 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:00:47.816389 [43641 10739128][VERB] Received Link.
+2025/06/06 Fri 10:00:47.816432 [43641 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:00:47.817161 [43641 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:00:47.817203 [43641 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:00:47.817236 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817268 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817300 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817331 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817363 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817394 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817426 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817457 [43641 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817489 [43641 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817520 [43641 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817552 [43641 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817583 [43641 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:00:47.817611 [43641 10739128][VERB] Filter done.
+2025/06/06 Fri 10:00:47.817838 [43641 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:00:47.832526 [43641 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:00:47.833593 [43641 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:00:47.837321 [43641 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:00:47.837979 [43641 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:00:47.838016 [43641 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:00:47.838069 [43641 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:00:47.838113 [43641 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:00:47.838223 [43641 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:00:47.838272 [43641 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:00:47.839421 [43641 10739128][VERB] Received Link.
+2025/06/06 Fri 10:00:47.839517 [43641 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:00:47.852918 [43641 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:00:47.853958 [43641 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:00:47.856046 [43641 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:00:47.856732 [43641 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:00:47.856775 [43641 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:01:26.014781 [44174 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:01:26.015377 [44174 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:01:26.032985 [44174 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:01:26.033129 [44174 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:01:26.033247 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:01:26.033360 [44174 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:01:26.033605 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:01:26.033678 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:01:26.033775 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:01:26.033883 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.033973 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.034065 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.034155 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.034246 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.034343 [44174 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:01:26.034435 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:01:26.034495 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:01:26.034599 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:01:26.034691 [44174 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:01:26.034792 [44174 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:01:26.034877 [44174 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:01:26.034942 [44174 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:01:26.035003 [44174 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:01:26.035062 [44174 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:01:26.035092 [44174 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:01:26.035129 [44174 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:01:26.035201 [44174 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:01:26.035270 [44174 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:01:26.036481 [44174 10739128][VERB] Received Link.
+2025/06/06 Fri 10:01:26.036523 [44174 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:01:26.037260 [44174 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:01:26.037301 [44174 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:01:26.037333 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037365 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037396 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037428 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037459 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037491 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037522 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037553 [44174 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037585 [44174 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037616 [44174 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037647 [44174 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037679 [44174 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:01:26.037707 [44174 10739128][VERB] Filter done.
+2025/06/06 Fri 10:01:26.037935 [44174 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:01:26.052599 [44174 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:01:26.053669 [44174 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:01:26.057361 [44174 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:01:26.058055 [44174 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:01:26.058092 [44174 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:01:26.058145 [44174 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:01:26.058189 [44174 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:01:26.058300 [44174 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:01:26.058350 [44174 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:01:26.059498 [44174 10739128][VERB] Received Link.
+2025/06/06 Fri 10:01:26.059588 [44174 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:01:26.072992 [44174 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:01:26.074040 [44174 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:01:26.076131 [44174 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:01:26.076811 [44174 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:01:26.076848 [44174 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:02:31.605145 [44663 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:02:31.606150 [44663 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:02:31.624312 [44663 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:02:31.624451 [44663 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:02:31.624575 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:02:31.624675 [44663 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:02:31.624946 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:02:31.625019 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:02:31.625126 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:02:31.625254 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625355 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625465 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625562 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625659 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625748 [44663 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:02:31.625836 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:02:31.625895 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:02:31.626001 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:02:31.626093 [44663 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:02:31.626196 [44663 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:02:31.626281 [44663 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:02:31.626336 [44663 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:02:31.626397 [44663 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:02:31.626461 [44663 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:02:31.626494 [44663 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:02:31.626523 [44663 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:02:31.626595 [44663 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:02:31.626666 [44663 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:02:31.627895 [44663 10739128][VERB] Received Link.
+2025/06/06 Fri 10:02:31.627939 [44663 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:02:31.628671 [44663 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:02:31.628714 [44663 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:02:31.628755 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628788 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628819 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628851 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628883 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628914 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628946 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:02:31.628978 [44663 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:02:31.629009 [44663 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:02:31.629041 [44663 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:02:31.629072 [44663 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:02:31.629105 [44663 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:02:31.629133 [44663 10739128][VERB] Filter done.
+2025/06/06 Fri 10:02:31.629361 [44663 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:02:31.644013 [44663 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:02:31.645083 [44663 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:02:31.648831 [44663 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:02:31.649480 [44663 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:02:31.649517 [44663 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:02:31.649570 [44663 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:02:31.649614 [44663 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:02:31.649724 [44663 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:02:31.649776 [44663 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:02:31.650875 [44663 10739128][VERB] Received Link.
+2025/06/06 Fri 10:02:31.650992 [44663 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:02:31.664333 [44663 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:02:31.665383 [44663 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:02:31.667483 [44663 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:02:31.668193 [44663 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:02:31.668234 [44663 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:14:56.217454 [47557 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:14:56.218053 [47557 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:14:56.235307 [47557 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:14:56.235435 [47557 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:14:56.235563 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:14:56.235673 [47557 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:14:56.235948 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:14:56.236021 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:14:56.236145 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:14:56.236258 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236367 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236457 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236563 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236650 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236752 [47557 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:14:56.236841 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:14:56.236900 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:14:56.237016 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:14:56.237110 [47557 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:14:56.237212 [47557 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:14:56.237303 [47557 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:14:56.237358 [47557 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:14:56.237420 [47557 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:14:56.237483 [47557 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:14:56.237516 [47557 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:14:56.237544 [47557 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:14:56.237618 [47557 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:14:56.237690 [47557 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:14:56.238902 [47557 10739128][VERB] Received Link.
+2025/06/06 Fri 10:14:56.238946 [47557 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:14:56.239678 [47557 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:14:56.239720 [47557 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:14:56.239753 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239785 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239817 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239848 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239880 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239911 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239950 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:14:56.239982 [47557 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:14:56.240013 [47557 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:14:56.240045 [47557 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:14:56.240076 [47557 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:14:56.240108 [47557 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:14:56.240135 [47557 10739128][VERB] Filter done.
+2025/06/06 Fri 10:14:56.240364 [47557 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:14:56.255078 [47557 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:14:56.256155 [47557 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:14:56.259859 [47557 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:14:56.260523 [47557 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:14:56.260560 [47557 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:14:56.260614 [47557 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:14:56.260657 [47557 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:14:56.260770 [47557 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:14:56.260822 [47557 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:14:56.261955 [47557 10739128][VERB] Received Link.
+2025/06/06 Fri 10:14:56.262044 [47557 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:14:56.275440 [47557 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:14:56.276492 [47557 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:14:56.278561 [47557 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:14:56.279254 [47557 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:14:56.279292 [47557 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:15:21.438983 [47979 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:15:21.439965 [47979 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:15:21.457368 [47979 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:15:21.457899 [47979 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:15:21.458380 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:15:21.458815 [47979 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:15:21.459443 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:15:21.459857 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:15:21.460332 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:15:21.460809 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.461253 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.461682 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.462099 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.462546 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.463015 [47979 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:15:21.463477 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:15:21.463864 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:15:21.463972 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:15:21.464397 [47979 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:15:21.464830 [47979 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:15:21.464964 [47979 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:15:21.465343 [47979 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:15:21.465734 [47979 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:15:21.466120 [47979 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:15:21.466477 [47979 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:15:21.466825 [47979 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:15:21.467228 [47979 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:15:21.467625 [47979 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:15:21.469153 [47979 10739128][VERB] Received Link.
+2025/06/06 Fri 10:15:21.469534 [47979 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:15:21.470592 [47979 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:15:21.470990 [47979 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:15:21.471351 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:15:21.471709 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:15:21.472065 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:15:21.472422 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:15:21.472779 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:15:21.473136 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:15:21.473497 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:15:21.473889 [47979 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:15:21.474281 [47979 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:15:21.474674 [47979 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:15:21.475074 [47979 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:15:21.475477 [47979 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:15:21.475864 [47979 10739128][VERB] Filter done.
+2025/06/06 Fri 10:15:21.476452 [47979 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:15:21.491522 [47979 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:15:21.492963 [47979 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:15:21.496994 [47979 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:15:21.498077 [47979 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:15:21.498439 [47979 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:15:21.498813 [47979 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:15:21.499227 [47979 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:15:21.499664 [47979 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:15:21.500039 [47979 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:15:21.501461 [47979 10739128][VERB] Received Link.
+2025/06/06 Fri 10:15:21.501888 [47979 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:15:21.515884 [47979 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:15:21.516936 [47979 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:15:21.519022 [47979 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:15:21.519698 [47979 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:15:21.519735 [47979 10739128][INFO] All artifact generated. Exiting...
+2025/06/06 Fri 10:16:48.640425 [48714 10739128][INFO] SubConverter v0.7.2 starting up..
+]0;SubConverter v0.7.22025/06/06 Fri 10:16:48.641004 [48714 10739128][INFO] Reading preference settings...
+2025/06/06 Fri 10:16:48.657922 [48714 10739128][INFO] Updating ruleset url 'rules/LocalAreaNetwork.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:16:48.658074 [48714 10739128][INFO] Updating ruleset url 'rules/MSServices.list' with group 'Ⓜ️ 微软服务'.
+2025/06/06 Fri 10:16:48.658212 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Unbreak.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:16:48.658316 [48714 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/AdRule.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:16:48.658565 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list' with group '🛑 全球拦截'.
+2025/06/06 Fri 10:16:48.658628 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Video/Netflix.list' with group '🎥 NETFLIX'.
+2025/06/06 Fri 10:16:48.658738 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/StreamingMedia/Streaming.list' with group '🌍 国外媒体'.
+2025/06/06 Fri 10:16:48.658851 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Bilibili.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659008 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/iQiyi.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659116 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Letv.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659206 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/MOO.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659295 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Tencent Video.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659399 [48714 10739128][INFO] Updating ruleset url 'rules/lhie1/Surge/Surge 3/Provider/Media/Youku.list' with group '🌏 国内媒体'.
+2025/06/06 Fri 10:16:48.659492 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list' with group '📲 电报信息'.
+2025/06/06 Fri 10:16:48.659550 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Global.list' with group '🔰 节点选择'.
+2025/06/06 Fri 10:16:48.659654 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/Extra/Apple/Apple.list' with group '🍎 苹果服务'.
+2025/06/06 Fri 10:16:48.659753 [48714 10739128][INFO] Updating ruleset url 'rules/DivineEngine/Surge/Ruleset/China.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:16:48.659862 [48714 10739128][INFO] Updating ruleset url 'rules/NobyDa/Surge/Download.list' with group '🎯 全球直连'.
+2025/06/06 Fri 10:16:48.659949 [48714 10739128][INFO] Adding rule 'GEOIP,CN,🎯 全球直连'.
+2025/06/06 Fri 10:16:48.660007 [48714 10739128][INFO] Adding rule 'FINAL,🐟 漏网之鱼'.
+2025/06/06 Fri 10:16:48.660071 [48714 10739128][INFO] Reading generator configuration...
+2025/06/06 Fri 10:16:48.660131 [48714 10739128][INFO] Read generator configuration completed.
+
+2025/06/06 Fri 10:16:48.660161 [48714 10739128][INFO] Generating all artifacts...
+2025/06/06 Fri 10:16:48.660189 [48714 10739128][INFO] Generating artifact 'test'...
+2025/06/06 Fri 10:16:48.660264 [48714 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:16:48.660333 [48714 10739128][INFO] Fetching node data from url '../../temp/clash.yaml'.
+2025/06/06 Fri 10:16:48.661539 [48714 10739128][VERB] Received Link.
+2025/06/06 Fri 10:16:48.661581 [48714 10739128][VERB] Parsing configuration file data...
+2025/06/06 Fri 10:16:48.662313 [48714 10739128][VERB] Node  TrojanProvider - （看这里）每月刷新订阅获取新节点  has been added.
+2025/06/06 Fri 10:16:48.662355 [48714 10739128][VERB] Node  TrojanProvider - 一元机场.ink  has been added.
+2025/06/06 Fri 10:16:48.662388 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 01 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662420 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 02 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662451 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 03 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662483 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 04 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662514 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 05 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662546 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 06 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662577 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 07 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662608 [48714 10739128][VERB] Node  TrojanProvider - 🇭🇰香港 08 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662640 [48714 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 01 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662672 [48714 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 02 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662703 [48714 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 03 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662735 [48714 10739128][VERB] Node  TrojanProvider - 🇺🇸美国 04 | 专线  has been added.
+2025/06/06 Fri 10:16:48.662762 [48714 10739128][VERB] Filter done.
+2025/06/06 Fri 10:16:48.663004 [48714 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:16:48.677586 [48714 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:16:48.678651 [48714 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:16:48.682386 [48714 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:16:48.683076 [48714 10739128][INFO] Artifact 'test' generate SUCCESS!
+
+2025/06/06 Fri 10:16:48.683115 [48714 10739128][INFO] Generating artifact 'test_profile'...
+2025/06/06 Fri 10:16:48.683169 [48714 10739128][INFO] Trying to load profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:16:48.683213 [48714 10739128][INFO] Trying to parse profile 'profiles/example_profile.ini'.
+2025/06/06 Fri 10:16:48.683324 [48714 10739128][VERB] Imported 0 item(s).
+2025/06/06 Fri 10:16:48.683374 [48714 10739128][INFO] Fetching node data from url 'ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwYXNzd29yZA@www.example.com:1080#Example'.
+2025/06/06 Fri 10:16:48.684519 [48714 10739128][VERB] Received Link.
+2025/06/06 Fri 10:16:48.684608 [48714 10739128][INFO] Generate target: Clash
+2025/06/06 Fri 10:16:48.698047 [48714 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Guard/Hijacking.list'!
+2025/06/06 Fri 10:16:48.699103 [48714 10739128][WARN] Failed to fetch ruleset or ruleset is empty: 'rules/DivineEngine/Surge/Ruleset/Extra/Telegram/Telegram.list'!
+2025/06/06 Fri 10:16:48.701171 [48714 10739128][INFO] Generate completed.
+2025/06/06 Fri 10:16:48.701838 [48714 10739128][INFO] Artifact 'test_profile' generate SUCCESS!
+
+2025/06/06 Fri 10:16:48.701876 [48714 10739128][INFO] All artifact generated. Exiting...
