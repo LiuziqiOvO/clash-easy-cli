@@ -469,3 +469,39 @@ $ proxy_off
 - `clash_help` - 显示所有可用命令的帮助信息
 
 > **注意：** 使用 `clash_test` 命令需要安装 `jq` 工具。在 Ubuntu/Debian 系统上可以通过 `sudo apt-get install jq` 安装；在 CentOS/RHEL 系统上可以通过 `sudo yum install jq` 安装。
+
+## ⚙️ 配置说明
+
+### 环境配置文件
+
+首次使用需要配置订阅地址：
+
+```bash
+# 1. 复制配置模板
+cp .env.example .env
+
+# 2. 编辑配置文件
+nano .env
+```
+
+配置文件示例：
+
+```bash
+# Clash 订阅地址 (必填)
+export CLASH_URL='https://your-subscription-url-here'
+
+# Clash Secret (可选，留空则自动获取)
+export CLASH_SECRET=''
+
+# 设置为1以跳过订阅检查和下载 (调试用)
+SKIP_SUBSCRIPTION_CHECK=0
+```
+
+> ⚠️ **安全提醒**: `.env` 文件包含敏感信息，已被 `.gitignore` 忽略，不会上传到仓库
+
+### 使用配置向导
+
+```bash
+# 交互式配置向导
+clash config
+```
