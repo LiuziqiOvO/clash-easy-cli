@@ -10,6 +10,9 @@
 
 感谢原始项目和所有贡献者的努力。🙏 
 
+<img width="529" height="279" alt="image" src="https://github.com/user-attachments/assets/1958ff0d-f5eb-4519-b7b6-3a8f40eb5e5d" />
+
+<img width="601" height="567" alt="image" src="https://github.com/user-attachments/assets/e0749ca4-bec1-47ea-8bcc-5deccdcd7f59" />
 
 ## 🚀 快速开始
 
