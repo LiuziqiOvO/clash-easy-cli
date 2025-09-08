@@ -83,9 +83,34 @@ class ClashConfig(BaseModel):
         return Path.cwd() / ".env"
     
     def ensure_directories(self) -> None:
-        """确保所有必要的目录存在"""
-        for dir_path in [self.config_dir, self.temp_dir, self.logs_dir]:
-            dir_path.mkdir(parents=True, exist_ok=True)
+        """确保所有必要的目录存在。
+        - 若目标路径已存在且为文件，回退到 ~/.config/clash-cli 下的安全目录
+        - 确保在任意工作目录下运行均不会因同名文件而失败
+        """
+        safe_base = Path.home() / ".config" / "clash-cli"
+        dir_mappings = [
+            ("config_dir", "conf"),
+            ("temp_dir", "temp"),
+            ("logs_dir", "logs"),
+        ]
+        for attr_name, default_name in dir_mappings:
+            dir_path = getattr(self, attr_name)
+            try:
+                if dir_path.exists():
+                    if dir_path.is_file():
+                        # 路径存在但为文件，使用安全回退目录并更新属性
+                        fallback = safe_base / default_name
+                        fallback.mkdir(parents=True, exist_ok=True)
+                        setattr(self, attr_name, fallback)
+                    else:
+                        dir_path.mkdir(parents=True, exist_ok=True)
+                else:
+                    dir_path.mkdir(parents=True, exist_ok=True)
+            except Exception:
+                # 任何异常均回退到安全目录
+                fallback = safe_base / default_name
+                fallback.mkdir(parents=True, exist_ok=True)
+                setattr(self, attr_name, fallback)
     
     class Config:
         # 允许任意类型，因为Path可能不是标准的pydantic类型

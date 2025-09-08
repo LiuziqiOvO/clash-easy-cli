@@ -182,7 +182,7 @@ class SubscriptionManager:
             
             # 设置Secret
             secret = self.config.secret
-            if not secret:
+            if secret is None:
                 import secrets
                 secret = secrets.token_hex(16)
             final_config['secret'] = secret

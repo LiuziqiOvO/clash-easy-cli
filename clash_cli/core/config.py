@@ -97,8 +97,8 @@ class ConfigManager:
                         if key == 'CLASH_URL':
                             config['subscription_url'] = value
                         elif key == 'CLASH_SECRET':
-                            if value:  # 只有非空时才设置
-                                config['secret'] = value
+                            # 允许空字符串，空表示取消密码
+                            config['secret'] = value
                         elif key == 'SKIP_SUBSCRIPTION_CHECK':
                             config['skip_subscription_check'] = value == '1'
             
