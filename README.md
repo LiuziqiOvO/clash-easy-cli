@@ -1,4 +1,4 @@
-# Clash for Linux：在命令行中清晰快速地使用代理
+# Cclash-easy-cli：在命令行中清晰快速地使用代理
 
 > 绝大多数修改和文档均由 AI（Claude4.0）生成
 
