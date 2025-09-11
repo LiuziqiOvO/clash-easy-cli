@@ -45,7 +45,7 @@ clash-cli config
 clash-cli start
 ```
 
-#### 4. 智能切换代理
+#### 4. 切换代理
 
 ```bash
 # 直接使用 clash-cli 命令切换代理开关（推荐使用）
@@ -62,18 +62,6 @@ clash-cli
 clash-cli status
 ```
 
-### 方式二：使用原 Shell 版本
-
-```bash
-# 运行安装向导
-bash install.sh
-
-# 配置订阅地址
-./clash config
-
-# 启动服务
-./clash start
-```
 
 ## 📋 Python 版本命令列表
 
