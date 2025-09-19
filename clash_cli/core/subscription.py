@@ -183,8 +183,8 @@ class SubscriptionManager:
             # 设置Secret
             secret = self.config.secret
             if secret is None:
-                import secrets
-                secret = secrets.token_hex(16)
+                # 不再生成随机secret，使用空字符串以避免认证不匹配
+                secret = ''
             final_config['secret'] = secret
             
             # 设置Dashboard路径

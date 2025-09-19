@@ -7,6 +7,9 @@ from typing import Optional, Dict, Any, List
 from pathlib import Path
 import os
 
+# 计算项目根目录（clash_cli 上三级目录）
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
 
 class ProxyConfig(BaseModel):
     """代理端口配置"""
@@ -31,7 +34,7 @@ class ClashConfig(BaseModel):
     mode: str = Field(default="rule", pattern="^(rule|global|direct)$")
     
     # 路径配置
-    config_dir: Path = Field(default_factory=lambda: Path.cwd() / "conf")
+    config_dir: Path = Field(default_factory=lambda: PROJECT_ROOT / "conf")
     temp_dir: Path = Field(default_factory=lambda: Path.cwd() / "temp")
     bin_dir: Path = Field(default_factory=lambda: Path.cwd() / "bin")
     logs_dir: Path = Field(default_factory=lambda: Path.cwd() / "logs")
@@ -80,7 +83,7 @@ class ClashConfig(BaseModel):
     
     def get_env_file_path(self) -> Path:
         """获取环境变量文件路径"""
-        return Path.cwd() / ".env"
+        return PROJECT_ROOT / ".env"
     
     def ensure_directories(self) -> None:
         """确保所有必要的目录存在。

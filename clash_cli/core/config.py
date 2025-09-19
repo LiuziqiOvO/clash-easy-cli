@@ -11,6 +11,9 @@ from loguru import logger
 
 from ..models.config import ClashConfig
 
+# 计算项目根目录（clash_cli 上三级目录）
+PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
+
 
 class ConfigManager:
     """配置管理器"""
@@ -76,7 +79,7 @@ class ConfigManager:
     
     def _load_env_config(self) -> Optional[Dict[str, Any]]:
         """加载.env文件配置"""
-        env_file = Path.cwd() / ".env"
+        env_file = PROJECT_ROOT / ".env"
         if not env_file.exists():
             return None
         
@@ -88,6 +91,9 @@ class ConfigManager:
                     if line and not line.startswith('#') and '=' in line:
                         key, value = line.split('=', 1)
                         key = key.strip()
+                        # 兼容 'export KEY=VALUE' 形式
+                        if key.startswith('export '):
+                            key = key[len('export '):].strip()
                         value = value.strip().strip('\'"')
                         
                         # 存储环境变量
@@ -196,7 +202,7 @@ class ConfigManager:
     
     def save_env_config(self, subscription_url: str, secret: Optional[str] = None) -> bool:
         """保存配置到.env文件"""
-        env_file = Path.cwd() / ".env"
+        env_file = PROJECT_ROOT / ".env"
         
         try:
             # 读取现有配置

@@ -129,7 +129,7 @@ def select(ctx):
     """选择代理节点"""
     console.print("[yellow]节点选择功能暂未实现[/yellow]")
     console.print("[dim]可以使用 Web Dashboard 进行节点选择[/dim]")
-    console.print(f"[dim]访问: http://localhost:9090/ui[/dim]")
+    console.print(f"[dim]访问: http://localhost:9090/ui/public/#/proxies[/dim]")
 
 
 if __name__ == '__main__':
