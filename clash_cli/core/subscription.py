@@ -10,7 +10,7 @@ from pathlib import Path
 from typing import Optional
 from loguru import logger
 
-from ..models.config import ClashConfig
+from ..models.config import ClashConfig, PROJECT_ROOT
 
 
 class SubscriptionManager:
@@ -189,7 +189,7 @@ class SubscriptionManager:
             
             # 设置Dashboard路径
             if self.config.dashboard_enabled:
-                dashboard_path = Path.cwd() / "dashboard"
+                dashboard_path = PROJECT_ROOT / "dashboard"
                 if dashboard_path.exists():
                     final_config['external-ui'] = str(dashboard_path)
             
